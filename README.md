@@ -2,7 +2,8 @@
 
 Dominion is a competitive turn-based deck-building card game. Each player starts
 with 10 cards in their deck and acquires additional cards over the course of the
-game to help them win.
+game to help them win. The game was originally released as a physical card game,
+but an online version was added later (https://dominion.games/).
 
 ## Objective
 
@@ -70,7 +71,7 @@ need to spend to buy the card. The value is how many coins you get when you play
 the card. For example, a Gold costs 6 coins and is worth 3 coins. So you need 6
 coins to buy it, and when you play it, it gives you 3 coins to use that turn.
 
-<img src="./images/treasure_card_anatomy.png">
+<img src="./images/treasure_card_anatomy.png" width="300">
 
 #### Gold
 
@@ -98,6 +99,7 @@ actions, buys, coins, and more. They even allow you to attack your opponent!
 Examples:
 
 Smithy has an Action type only.
+
 <img src="./images/cards/Smithy.png" width="150">
 
 Bandit is an Action card that also has an Attack type. The Attack type just
