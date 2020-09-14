@@ -52,6 +52,8 @@ An Estate costs 2 coins and is worth 1 victory point.
 
 Curse costs 0 coins and is worth -1 victory points.
 
+<img src="./images/cards/Curse.png" width="150">
+
 ### Alternative victory cards
 There are also "alternative" victory cards that give you different ways of
 obtaining victory points. For example, the Gardens card is worth 1 point for
