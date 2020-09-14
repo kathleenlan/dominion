@@ -20,9 +20,15 @@ The game ends when one of the following conditions is met:
 
 ## Card Types
 
-There are several card types in the game, and some cards have multiple types. Here are the basic types you will see in the Base set:
+There are several card types in the game, and some cards have multiple types.
+The type will be labeled at the bottom of the card. Here are the basic types you
+will see in the Base set:
 
 ### Victory
+
+A victory card will either grant a fixed number of victory points or a variable number of
+victory points based on the rule desribed on the card. Provinces, Duchies, and
+Estates all grant a fixed number of victory points.
 
 #### Province
 
@@ -89,9 +95,14 @@ actions, buys, coins, and more. They even allow you to attack your opponent!
 
 Examples:
 
-<img src="./images/cards/Bandit.png" width="150">
-
+Smithy has an Action type only.
 <img src="./images/cards/Smithy.png" width="150">
+
+Bandit is an Action card that also has an Attack type. The Attack type just
+means that its effect attacks other players. Some action cards have rules that
+depend on the number of types other cards have.
+
+<img src="./images/cards/Bandit.png" width="150">
 
 ## Setup
 
