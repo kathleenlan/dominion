@@ -25,6 +25,34 @@ There are several card types in the game, and some cards have multiple types.
 The type will be labeled at the bottom of the card. Here are the basic types you
 will see in the Base set:
 
+### Treasure
+
+A Treasure card gives you coins that you can use to buy cards during your turn.
+Each Treasure card has a *cost* and a *value*. The cost is how many coins you
+need to spend to buy the card. The value is how many coins you get when you play
+the card. For example, a Gold costs 6 coins and is worth 3 coins. So you need 6
+coins to buy it, and when you play it, it gives you 3 coins to use that turn.
+
+<img src="./images/treasure_card_anatomy.png" width="300">
+
+#### Gold
+
+A Gold costs 6 coins and is worth 3 coins.
+
+<img src="./images/cards/Gold.png" width="150">
+
+#### Silver
+
+A Silver costs 3 coins and is worth 2 coins.
+
+<img src="./images/cards/Silver.png" width="150">
+
+#### Copper
+
+A Copper costs 0 coins and is worth 1 coin.
+
+<img src="./images/cards/Copper.png" width="150">
+
 ### Victory
 
 A victory card will either grant a fixed number of victory points or a variable number of
@@ -63,34 +91,6 @@ worth 4 victory points.
 
 <img src="./images/cards/Gardens.png" width="150">
 
-### Treasure
-
-A Treasure card gives you coins that you can use to buy cards during your turn.
-Each Treasure card has a *cost* and a *value*. The cost is how many coins you
-need to spend to buy the card. The value is how many coins you get when you play
-the card. For example, a Gold costs 6 coins and is worth 3 coins. So you need 6
-coins to buy it, and when you play it, it gives you 3 coins to use that turn.
-
-<img src="./images/treasure_card_anatomy.png" width="300">
-
-#### Gold
-
-A Gold costs 6 coins and is worth 3 coins.
-
-<img src="./images/cards/Gold.png" width="150">
-
-#### Silver
-
-A Silver costs 3 coins and is worth 2 coins.
-
-<img src="./images/cards/Silver.png" width="150">
-
-#### Copper
-
-A Copper costs 0 coins and is worth 1 coin.
-
-<img src="./images/cards/Copper.png" width="150">
-
 ### Action
 
 Action cards allow you to enhance your turns, by giving you additional cards,
@@ -117,8 +117,7 @@ include over 30 different kinds of cards!
 
 There is a Trash pile that is shared for all players. Cards in the Trash pile
 are not part of any player's deck. (i.e. They can't be drawn) There are cards
-that allow you to put cards in the Trash and also cards that allow you to take
-cards out of the Trash.
+that allow you to put cards in the Trash or take cards out of the Trash.
 
 Each player starts with a deck of 10 cards, typically 7 Coppers and 3 Estates.
 Some expansions include cards that change the setup by substituting Coppers or
@@ -180,7 +179,7 @@ buys, such as Festival.
 
 In Dominion Online, at the start of the buy phase, you will see a button labeled
 "Autoplay Treasures". Clicking this button will play all of the Treasure cards
-in your hand. You can also individual click on each Treasure card to play it.
+in your hand. You can also individually click on each Treasure card to play it.
 You must play all of the Treasure cards you want to use before you start buying
 any cards. (e.g. If you have multiple buys in a turn, you can't play some
 Treasures, buy a card, and then play more Treasures. All Treasures must be
