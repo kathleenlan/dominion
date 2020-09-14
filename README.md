@@ -28,19 +28,19 @@ There are several card types in the game, and some cards have multiple types. He
 
 A Province costs 8 coins and is worth 6 victory points.
 
-<img src="./images/cards/Province.png">
+<img src="./images/cards/Province.png" width="150">
 
 #### Duchy
 
 A Duchy costs 5 coins and is worth 3 victory points.
 
-<img src="./images/cards/Duchy.png">
+<img src="./images/cards/Duchy.png" width="150">
 
 #### Estate
 
 An Estate costs 2 coins and is worth 1 victory point.
 
-<img src="./images/cards/Estate.png">
+<img src="./images/cards/Estate.png" width="150">
 
 ### Curse
 
@@ -52,7 +52,7 @@ obtaining victory points. For example, the Gardens card is worth 1 point for
 every 10 cards in your deck (rounded down), so if your deck has 49 cards, it is
 worth 4 victory points.
 
-<img src="./images/cards/Gardens.png">
+<img src="./images/cards/Gardens.png" width="150">
 
 ### Treasure
 
@@ -68,19 +68,19 @@ coins to buy it, and when you play it, it gives you 3 coins to use that turn.
 
 A Gold costs 6 coins and is worth 3 coins.
 
-<img src="./images/cards/Gold.png">
+<img src="./images/cards/Gold.png" width="150">
 
 #### Silver
 
 A Silver costs 3 coins and is worth 2 coins.
 
-<img src="./images/cards/Silver.png">
+<img src="./images/cards/Silver.png" width="150">
 
 #### Copper
 
 A Copper costs 0 coins and is worth 1 coin.
 
-<img src="./images/cards/Copper.png">
+<img src="./images/cards/Copper.png" width="150">
 
 ### Action
 
@@ -89,9 +89,9 @@ actions, buys, coins, and more. They even allow you to attack your opponent!
 
 Examples:
 
-<img src="./images/cards/Bandit.png">
+<img src="./images/cards/Bandit.png" width="150">
 
-<img src="./images/cards/Smithy.png">
+<img src="./images/cards/Smithy.png" width="150">
 
 ## Setup
 
@@ -141,7 +141,7 @@ that they can only play one Action card. However, there are Action cards
 that give you additional actions, such as Village. This allows you to play
 more than one Action card in a single turn.
 
-<img src="./images/cards/Village.png">
+<img src="./images/cards/Village.png" width="150">
 
 The text on Village says "+1 card +2 actions". This means that when you play
 Village, you draw one card and gain two actions. The actions must be used that
@@ -161,7 +161,7 @@ By default, a player has one "buy" per turn. It takes one buy to purchase a
 card. As you might have guessed, there are Action cards that give you additional
 buys, such as Festival.
 
-<img src="./images/cards/Festival.png">
+<img src="./images/cards/Festival.png" width="150">
 
 In Dominion Online, at the start of the buy phase, you will see a button labeled
 "Autoplay Treasures". Clicking this button will play all of the Treasure cards
