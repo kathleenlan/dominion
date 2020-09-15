@@ -5,11 +5,12 @@ with 10 cards in their deck and acquires additional cards over the course of the
 game to help them win. The game was originally released as a physical card game,
 but an online version was added later (https://dominion.games/).
 
+This guide is focused on providing a simple introduction, so it covers the Base 
+set only and does not discuss game mechanics that are introduced in the expansion sets.
+
 ## Objective
 
-To acquire the most victory points by the end of the game. In Base set games,
-victory points can only be acquired via victory cards. Various expansions allow
-players to acquire points in the form of victory tokens.
+To acquire the most victory points by the end of the game. Victory points are acquired via victory cards. 
 
 ## Game-ending conditions
 
@@ -17,7 +18,6 @@ The game ends when one of the following conditions is met:
 
 * Three of the card supply piles are empty.
 * The Province pile is empty.
-* The Colony pile is empty (for games that include Colonies).
 
 ## Card Types
 
@@ -59,29 +59,40 @@ A victory card will either grant a fixed number of victory points or a variable 
 victory points based on the rule desribed on the card. Provinces, Duchies, and
 Estates all grant a fixed number of victory points.
 
-#### Province
-
-A Province costs 8 coins and is worth 6 victory points.
-
-<img src="./images/cards/Province.png" width="150">
-
-#### Duchy
-
-A Duchy costs 5 coins and is worth 3 victory points.
-
-<img src="./images/cards/Duchy.png" width="150">
-
-#### Estate
-
-An Estate costs 2 coins and is worth 1 victory point.
-
-<img src="./images/cards/Estate.png" width="150">
-
-### Curse
-
-Curse costs 0 coins and is worth -1 victory points.
-
-<img src="./images/cards/Curse.png" width="150">
+<table>
+  <thead>
+    <tr>
+      <td></td>
+      <td>Province</td>
+      <td>Duchy</td>
+      <td>Estate</td>
+      <td>Curse</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td><img src="./images/cards/Province.png" width="150"></td>
+      <td><img src="./images/cards/Duchy.png" width="150"></td>
+      <td><img src="./images/cards/Estate.png" width="150"></td>
+      <td><img src="./images/cards/Curse.png" width="150"></td>
+    </tr>
+    <tr>
+      <td>Cost</td>
+      <td>8</td>
+      <td>5</td>
+      <td>2</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Victory points</td>
+      <td>6</td>
+      <td>3</td>
+      <td>1</td>
+      <td>-1</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Alternative victory cards
 There are also "alternative" victory cards that give you different ways of
@@ -94,7 +105,7 @@ worth 4 victory points.
 ### Action
 
 Action cards allow you to enhance your turns, by giving you additional cards,
-actions, buys, coins, and more. They even allow you to attack your opponent!
+actions, buys, coins, and more.
 
 Examples:
 
@@ -103,8 +114,7 @@ Smithy has an Action type only.
 <img src="./images/cards/Smithy.png" width="150">
 
 Bandit is an Action card that also has an Attack type. The Attack type just
-means that its effect attacks other players. Some action cards have rules that
-depend on the number of types other cards have.
+means that its effect attacks other players.
 
 <img src="./images/cards/Bandit.png" width="150">
 
@@ -112,8 +122,7 @@ depend on the number of types other cards have.
 
 The board always includes piles of Provinces, Duchies, Estates, Curses, Golds,
 Silvers, and Coppers, as well as 10 randomly selected Kingdom cards. Some
-Kingdom cards require additional card piles for setup. More complex boards can
-include over 30 different kinds of cards!
+Kingdom cards require additional card piles for setup.
 
 There is a Trash pile that is shared for all players. Cards in the Trash pile
 are not part of any player's deck. (i.e. They can't be drawn) There are cards
