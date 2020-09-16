@@ -99,9 +99,9 @@ Estates all grant a fixed number of victory points.
     </tr>
     <tr>
       <td>Victory points</td>
-      <td>6</td>
-      <td>3</td>
-      <td>1</td>
+      <td>6 <img src="./images/victory_point.png"></td>
+      <td>3 <img src="./images/victory_point.png"></td>
+      <td>1 <img src="./images/victory_point.png"></td>
       <td>-1</td>
     </tr>
   </tbody>
@@ -221,6 +221,10 @@ next hand.
 
 After the player has finished their turn, the next player takes a turn.
 Note that some expansions add additional phases, such as the Night phase.
+
+## Attribution
+
+All images are screenshots from [Dominion Online](https://dominion.games/).
 
 ## Alternative references
 
