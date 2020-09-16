@@ -5,12 +5,12 @@ with 10 cards in their deck and acquires additional cards over the course of the
 game to help them win. The game was originally released as a physical card game,
 but an online version was added later (https://dominion.games/).
 
-This guide is focused on providing a simple introduction, so it covers the Base 
+This guide is focused on providing a simple introduction, so it covers the Base
 set only and does not discuss game mechanics that are introduced in the expansion sets.
 
 ## Objective
 
-To acquire the most victory points by the end of the game. Victory points are acquired via victory cards. 
+To acquire the most victory points by the end of the game.
 
 ## Game-ending conditions
 
@@ -35,23 +35,36 @@ coins to buy it, and when you play it, it gives you 3 coins to use that turn.
 
 <img src="./images/treasure_card_anatomy.png" width="300">
 
-#### Gold
-
-A Gold costs 6 coins and is worth 3 coins.
-
-<img src="./images/cards/Gold.png" width="150">
-
-#### Silver
-
-A Silver costs 3 coins and is worth 2 coins.
-
-<img src="./images/cards/Silver.png" width="150">
-
-#### Copper
-
-A Copper costs 0 coins and is worth 1 coin.
-
-<img src="./images/cards/Copper.png" width="150">
+<table>
+  <thead>
+    <tr>
+      <td></td>
+      <td>Gold</td>
+      <td>Silver</td>
+      <td>Copper</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td><img src="./images/cards/Gold.png" width="150"></td>
+      <td><img src="./images/cards/Silver.png" width="150"></td>
+      <td><img src="./images/cards/Copper.png" width="150"></td>
+    </tr>
+    <tr>
+      <td>Cost</td>
+      <td>6</td>
+      <td>3</td>
+      <td>0</td>
+    <tr>
+    </tr>
+      <td>Coin value</td>
+      <td>3</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Victory
 
@@ -94,7 +107,7 @@ Estates all grant a fixed number of victory points.
   </tbody>
 </table>
 
-### Alternative victory cards
+#### Alternative victory cards
 There are also "alternative" victory cards that give you different ways of
 obtaining victory points. For example, the Gardens card is worth 1 point for
 every 10 cards in your deck (rounded down), so if your deck has 49 cards, it is
@@ -129,8 +142,8 @@ are not part of any player's deck. (i.e. They can't be drawn) There are cards
 that allow you to put cards in the Trash or take cards out of the Trash.
 
 Each player starts with a deck of 10 cards, typically 7 Coppers and 3 Estates.
-Some expansions include cards that change the setup by substituting Coppers or
-Estates for other cards.
+(Some expansions include cards that change the setup by substituting Coppers or
+Estates for other cards.)
 
 Each player shuffles their deck and draws 5 cards for their starting hand.
 
@@ -181,8 +194,7 @@ during the Action phase and cannot be played during the Buy phase (unless the
 text on the card says otherwise.)
 
 By default, a player has one "buy" per turn. It takes one buy to purchase a
-card. As you might have guessed, there are Action cards that give you additional
-buys, such as Festival.
+card. There are Action cards that give you additional buys, such as Festival.
 
 <img src="./images/cards/Festival.png" width="150">
 
@@ -204,9 +216,8 @@ clicking on the plus icon in the lower right corner of the card.
 ### Cleanup
 
 During this phase, all of the cards that have been played, your remaining hand,
-and any cards you bought go into your discard pile. There are some cards that
-have effects which are triggered during the Cleanup phase. Draw five cards for
-your next hand.
+and any cards you bought go into your discard pile. Draw five cards for your
+next hand.
 
 After the player has finished their turn, the next player takes a turn.
 Note that some expansions add additional phases, such as the Night phase.
